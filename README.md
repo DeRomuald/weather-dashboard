@@ -25,4 +25,5 @@
 # Acknowledgements
 ### This project was inspired by the UM Coding Boot Camp.
 ### Mockup:
+![06-server-side-apis-homework-demo](https://user-images.githubusercontent.com/100550961/169738475-aca4f00c-c0a8-4b2d-96e7-631dbe6b39f6.png)
 
