@@ -7,7 +7,7 @@
 
 
 # Project Information
- This weather dashboard application...
+ This weather dashboard application displays current weather conditions of a city and the 5-day forcast of that city based on the user's search.
 
 
 # Technologies
@@ -15,11 +15,12 @@
 * HTML
 * CSS
 * JavaScript
-
+* Bootstrap
+* Openweather API
 # Screenshot
 
 # Links
-
+https://deromuald.github.io/weather-dashboard/
 
  
 # Acknowledgements
