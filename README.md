@@ -18,6 +18,7 @@
 * Bootstrap
 * Openweather API
 # Screenshot
+<img width="1440" alt="Screen Shot 2022-06-05 at 3 02 13 PM" src="https://user-images.githubusercontent.com/100550961/172067050-407dddba-3faf-456e-ab15-fb904fd186d5.png">
 
 # Links
 https://deromuald.github.io/weather-dashboard/
